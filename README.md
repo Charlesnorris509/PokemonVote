@@ -2,7 +2,7 @@
 
 Submitted by: **Charles Norris**
 
-This web app: ** Pokémon Dashboard: Your Interactive Pokémon Explorer
+This web app: ** Pokémon Vote: Your Interactive Pokémon Forum
 
 This React app lets you dive into the world of Pokémon with a sleek, data-driven dashboard. Browse through hundreds of Pokémon, filter them by type (like Fire or Water), and narrow your search using stats like HP or Attack power.
 
@@ -10,7 +10,7 @@ The dashboard shows you cool insights in real-time - which Pokémon has the high
 
 As you browse, the app intelligently loads more Pokémon data when needed, with smooth pagination to navigate through your results. Whether you're a casual fan or a competitive trainer analyzing stats, this dashboard puts all the Pokémon data you need at your fingertips!**
 
-Time spent: **7** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Video Walkthrough
 
