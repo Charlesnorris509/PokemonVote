@@ -16,7 +16,7 @@ Time spent: **7** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Pokemon2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='PokemonVote.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
